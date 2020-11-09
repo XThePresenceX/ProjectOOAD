@@ -1,7 +1,7 @@
 # ProjectOOAD by Jenil, Christopher and Baljot
-To create City of Windsor open source API
+City of Windsor open source API Project:
 
-TO RUN THE PROJECT ON LOCALHOST:
+TO RUN THIS PROJECT ON LOCALHOST:
 
 PREQUISITE SOFTWARES: myPHP-admin, Visual Studio Code, Git-Bash, XAMPP, Postman
 
